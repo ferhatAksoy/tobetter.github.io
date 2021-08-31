@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'To Better',
         home: Scaffold(
-          body: Center(child: Text('To Better')),
+          body: Center(child: Text('To Better download from app store')),
         ));
   }
 }
